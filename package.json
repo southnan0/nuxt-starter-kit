@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-starter-kit",
+  "scripts": {
+    "dev": "nuxt",
+    "build":"nuxt build",
+    "start":"nuxt start",
+    "dev-debug": "node --debug node_modules/nuxt/bin/nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^1.0.0-rc11"
+  }
+}
